@@ -2,7 +2,7 @@
 
 App para escuchar Podcasts utilizando  la API de AudioBoom para mostrar funcionalidad de React y  Next.JS
 
-![Captura de la App](./.readme-static/captura.png)
+[Demo](https://emr-podcasts-jmcccuughp.now.sh/)
 
 ## ¿Cómo funciona?
 
